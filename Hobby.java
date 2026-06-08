@@ -1,10 +1,6 @@
 public class Hobby {
     public static void main(String[] args) {
-        displayTraineeHobbyA();
-        displayTraineeHobbyB();
-        displayTraineeHobbyC();
-
-        
+        displayTraineeHobbyX();
     }
 
     public static void displayTraineeHobbyX() {
@@ -18,5 +14,3 @@ public class Hobby {
         // Hobbies of Trainee X will be added here
     }
 }
-
- 
