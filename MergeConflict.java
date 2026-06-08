@@ -3,5 +3,13 @@ public class Hobby {
         displayTraineeHobbyA();
         displayTraineeHobbyB();
         displayTraineeHobbyC();
+
+        
     }
+
+    public static void displayTraineeHobbyX() {
+System.out.println("Reading Books and watching KDrama");
+// Hobbies of Trainee X will be added here
 }
+}
+
