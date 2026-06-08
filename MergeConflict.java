@@ -8,8 +8,11 @@ public class Hobby {
     }
 
     public static void displayTraineeHobbyX() {
-System.out.println("Reading Books and watching KDrama");
-// Hobbies of Trainee X will be added here
+        System.out.println("Trainee X’s Hobbies:");
+        // Hobbies of Trainee X will be added here
+        System.out.println("Reading Books and watching KDrama");
+        // Hobbies of Trainee X will be added here
 }
 }
-
+    
+ 
